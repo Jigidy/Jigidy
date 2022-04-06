@@ -7,4 +7,4 @@ Hello everyone, I am Jigidy. I'm just getting started. Have begun with The Odin 
 
 I'm very much a beginner though, so right now any coding is good coding for learning purposes :). I'm looking forward to learning more. My hope is to get through The Odin Project by the end of the year.
 
-Jigidy
+Julian
